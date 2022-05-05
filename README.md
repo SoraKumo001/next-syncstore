@@ -4,6 +4,10 @@
 
 useSyncExternalStore sample program
 
+## operation check
+
+<https://next-syncstore.vercel.app/>
+
 ## Base code
 
 ```ts
