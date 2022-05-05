@@ -1,4 +1,4 @@
-import { Store, useSelector, useStore } from "./useSyncStore";
+import { Store, useSelector, useStore } from "../hooks/useSyncStore";
 
 type StoreType = { a: number; b: number };
 

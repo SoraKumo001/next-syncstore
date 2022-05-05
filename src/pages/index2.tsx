@@ -4,7 +4,7 @@ import {
   useContextDispatch,
   useContextSelector,
   useStore,
-} from "./useSyncStore";
+} from "../hooks/useSyncStore";
 
 type StoreType = { a: number; b: number };
 
